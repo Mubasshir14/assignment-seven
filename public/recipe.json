@@ -1,0 +1,99 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co/fptCJZZ/chicken-teriyaki.jpg",
+      "recipe_id": "1",
+      "recipe_name": "Chicken Teriyaki",
+      "short_description": "A classic Japanese dish with tender chicken glazed in a sweet and savory teriyaki sauce.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "100 g sugar",
+        "50 ml mirin",
+        "1 tbsp ginger, grated",
+        "2 cloves garlic, minced"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_image": "https://i.ibb.co/nPCNdML/spaghetti.jpg",
+      "recipe_id": "2",
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "An Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "200 g spaghetti",
+        "100 g pancetta",
+        "2 large eggs",
+        "50 g pecorino cheese, grated",
+        "50 g parmesan cheese, grated",
+        "2 cloves garlic, minced"
+      ],
+      "preparing_time": 20,
+      "calories": 400
+    },
+    {
+      "recipe_image": "https://i.ibb.co/6rSL0yf/beef.jpg",
+      "recipe_id": "3",
+      "recipe_name": "Beef Stroganoff",
+      "short_description": "A Russian dish of sautéed pieces of beef served in a sauce with smetana (sour cream).",
+      "ingredients": [
+        "500 g beef",
+        "200 g mushrooms",
+        "1 onion, chopped",
+        "1 cup sour cream",
+        "2 tbsp flour",
+        "1 cup beef broth"
+      ],
+      "preparing_time": 40,
+      "calories": 450
+    },
+    {
+      "recipe_image": "https://i.ibb.co/9cf7X19/vegetable.jpg",
+      "recipe_id": "4",
+      "recipe_name": "Vegetable Curry",
+      "short_description": "A fragrant and flavorful curry made with a variety of fresh vegetables and spices.",
+      "ingredients": [
+        "1 potato, diced",
+        "2 carrots, sliced",
+        "100 g green beans",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "2 tbsp curry powder"
+      ],
+      "preparing_time": 30,
+      "calories": 300
+    },
+    {
+      "recipe_image": "https://i.postimg.cc/RFfPsBfW/salmon.jpg",
+      "recipe_id": "5",
+      "recipe_name": "Grilled Salmon",
+      "short_description": "Perfectly grilled salmon with a lemon and herb marinade.",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 lemons, juiced",
+        "2 tbsp olive oil",
+        "1 tbsp dill, chopped",
+        "1 clove garlic, minced",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": 25,
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://i.ibb.co/2k1mPyV/38e8845614ea.jpg",
+      "recipe_id": "6",
+      "recipe_name": "Chocolate Cake",
+      "short_description": "A rich and moist chocolate cake perfect for any occasion.",
+      "ingredients": [
+        "200 g flour",
+        "200 g sugar",
+        "100 g cocoa powder",
+        "1 tsp baking powder",
+        "1 tsp baking soda",
+        "120 ml vegetable oil"
+      ],
+      "preparing_time": 45,
+      "calories": 450
+    }
+  ]
+  

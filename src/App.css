@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-container{
+    display: flex;
+    justify-content: space-around;
+  }
+  .card-container{
+    justify-content: space-between;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .cart-container{
+    width: 400px;
+    height: 550px;
+    margin-bottom: 20px;
+    box-shadow: 4px 4px 8px gray;
+    border: 1px solid green;
+    border-radius: 20px;
+  }
+  .card{
+    margin-right: 20px;
+    margin-top: 30px;
+    width: 400px;
+    /* text-align: cent; */
+    padding: 30px;
+    border: 1px solid green;
+  }
+  .card-img{
+    width: 100px;
+  }
+  .x{
+    margin-bottom: 10px;
+    margin-top: 30px;
+  }
+  .card-footer{
+    display: flex;
+    justify-content: space-around;
+  }
+  .cart-title{
+    display: flex;
+    justify-content: space-around;
+  }
+  .cart-info{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  @media (min-width:320px){
+    .card-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin: 20px;
+    }
+
+    .main-container{
+        display: block; 
+      }
+  }
+  @media (min-width:801px){
+    .card-container{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .main-container{
+        display: flex; 
+        justify-content: space-around
+      }
+  }
